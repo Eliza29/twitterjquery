@@ -1,10 +1,17 @@
-# RETO DE CODIGO
 ## TWITTER
-### Introducción
-El proyecto consistio en elaborar una replica del newsfeed de Twitter usando js, css y html.
+El proyecto consistio en elaborar una replica del newsfeed de Twitter usando jQUERY, css y html.
+
+![newsfeed](https://user-images.githubusercontent.com/32284212/38531802-60076bf2-3c37-11e8-90b1-e5f03de3b537.png)
+
+## Desarrollado para [Laboratoria](http://laboratoria.la) 
+
+### Herramientas
+- Jquery
+- CSS3
+- HTML5
+- Bootstrap4
 
 ### Contenido
-![twitter](assets/images/twitter-foto.png)
 
 *Versión 0.0.1*
 
@@ -18,14 +25,7 @@ El proyecto consistio en elaborar una replica del newsfeed de Twitter usando js,
 *Versión 0.0.3*
 
 - Si pasa los 140 caracteres, deshabilitar el botón.
+- Si pasa los 110 caracteres, mostrar el contador con OTRO color.
 - Si pasa los 120 caracteres, mostrar el contador con OTRO color.
-- Si pasa los 130 caracteres, mostrar el contador con OTRO color.
-- Si pasa los 140 caracteres, mostrar el contador en negativo.
-
-*Versión 0.0.4*
-
-- Si la cantidad de caracteres ingresados (sin dar un enter), supera al tamaño del textarea por defecto, debe de agregarse una línea más para que no aparezca el scroll. (Si en caso aplica)
-
-*Versión 0.0.5* 
 
 - Agregar la hora en que se publicó el tweet. En el formato de 24 horas: hh:mm.
