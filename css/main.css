@@ -7,10 +7,10 @@ main {
    width: 100%;
    min-height: 800px;
 } 
-.mt-6{
+.mt-6 {
     margin-top: 4rem;
 }
-.mt-7{
+.mt-7 {
     margin-top: 1rem; 
 }
 /* Colores del contador */
@@ -21,16 +21,14 @@ main {
     color:rgb(114, 209, 36);
 }
 
-.color3{
+.color3 {
     color: blue;
 }
 
 @media only screen and (min-width: 992px) {
-    .mt-6{
+    .mt-6 {
         margin-top: 5rem;
     }
-    main {
-        height: 100vh;
-    }
+
 }
 
