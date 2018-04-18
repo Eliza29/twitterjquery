@@ -1,4 +1,4 @@
-## TWITTER
+# TWITTER
 El proyecto consistio en elaborar una replica del newsfeed de Twitter usando jQUERY, css y html.
 
 ![newsfeed](https://user-images.githubusercontent.com/32284212/38531802-60076bf2-3c37-11e8-90b1-e5f03de3b537.png)
